@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["adder", "boolean_evaluation", "gray_code", "multiplier"]
+members = ["adder", "boolean_evaluation", "gray_code", "multiplier", "truth_table"]

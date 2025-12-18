@@ -20,3 +20,7 @@ version = "0.1.0"
 dependencies = [
  "adder",
 ]
+
+[[package]]
+name = "truth_table"
+version = "0.1.0"
